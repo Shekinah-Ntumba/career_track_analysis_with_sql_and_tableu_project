@@ -28,8 +28,6 @@ These insights were then visualized in **Tableau** to better understand learning
 
 ## 📊 Tableau Dashboard Visualization
 
-![Career Track Dashboard](https://github.com/your-username/your-repo-name/blob/main/path-to-your-screenshot.png)
-*(Replace the link above with your actual image or Tableau Public embed)*
 
 **👉 View Interactive Dashboard on Tableau Public:**
 [🔗 View Dashboard Here](https://public.tableau.com/app/profile/shekinah.ntumba/viz/CareerTrackAnalysiswithsqlandtableauproject/Career_analysisDashboard?publish=yes)
